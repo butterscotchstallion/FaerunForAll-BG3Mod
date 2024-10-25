@@ -1,0 +1,7 @@
+{
+    "FeatureFlags": [
+        "Lua"
+    ],
+    "ModTable": "FaerunForAll",
+    "RequiredVersion": 20
+}
